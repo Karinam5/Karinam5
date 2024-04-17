@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karinam5
 - 👀 I’m interested in develop codes
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on with the little I know
 
 
